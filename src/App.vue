@@ -150,7 +150,7 @@ main {
       align-items: center;
     }
     .more {
-      position: center;
+      position: fixed;
       top: 0;
       left: 0;
       width: 100%;
@@ -167,7 +167,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 100%;
+    top: 84%;
     left: calc(50% - 28px);
     width: 56px;
     height: 34px;
