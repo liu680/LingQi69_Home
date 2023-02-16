@@ -19,9 +19,9 @@
         >豫ICP备2022018134号-1</a
       >-->
       <!-- IOS在线签名工具 -->
-      <!--<a href="https://sign.lingqi69.top" target="_blank"
+      <a href="https://sign.lingqi69.top" target="_blank"
         >IOS在线签名工具</a
-      >-->
+      >
     </div>
     <div class="lrc" v-show="store.playerState">
       <music-one theme="filled" size="18" fill="#efefef" />
