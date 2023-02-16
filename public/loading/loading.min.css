@@ -32,7 +32,7 @@
 #loading-box .spinner-box .loading-word {
     position: absolute;
     color: #fff;
-    font-size: .95rem;
+    font-size: 0.95rem;
     transform: translateY(64px);
     text-align: center
 }
@@ -68,7 +68,7 @@
     height: 64px;
     border-radius: 50%;
     perspective: 800px;
-    transition: all .7s cubic-bezier(.42, 0, 0, 1.01)
+    transition: all .7s cubic-bezier(0.42, 0, 0, 1.01)
 }
 
 .inner {
