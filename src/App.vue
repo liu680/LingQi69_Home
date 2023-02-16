@@ -19,7 +19,7 @@
       <!-- 移动端菜单按钮 -->
       <Icon
         class="menu"
-        size="50"
+        size="24"
         @click="store.mobileOpenState = !store.mobileOpenState"
       >
         <component :is="store.mobileOpenState ? CloseSmall : HamburgerButton" />
@@ -188,6 +188,7 @@ main {
     }
   }
 }
+
 // 加载动画层
 .animate {
   transform: scale(1);
@@ -197,6 +198,7 @@ main {
   width: 100%;
   height: 100%;
 }
+
 .loading {
   .animate {
     transform: scale(1.2);
