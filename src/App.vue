@@ -188,7 +188,6 @@ main {
     }
   }
 }
-
 // 加载动画层
 .animate {
   transform: scale(1);
@@ -198,7 +197,6 @@ main {
   width: 100%;
   height: 100%;
 }
-
 .loading {
   .animate {
     transform: scale(1.2);
