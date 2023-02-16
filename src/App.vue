@@ -167,7 +167,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 84%;
+    top: 79%;
     left: calc(50% - 28px);
     width: 56px;
     height: 34px;
