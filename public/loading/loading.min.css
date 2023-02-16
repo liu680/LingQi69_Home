@@ -49,7 +49,7 @@
 }
 
 .loaded .loading-left-bg {
-    transform: translate(-100%, 0)
+    transform: translate(100%, 0)
 }
 
 .loaded .loading-right-bg {
