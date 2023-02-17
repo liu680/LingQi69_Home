@@ -32,7 +32,7 @@ import { ref } from "vue";
 import { Icon } from "@vicons/utils";
 import {
   Link,
-  Blog,
+  Edge,
   Award,
   FileSignature,
   Store,
@@ -44,7 +44,7 @@ import {
 // 建议不要超出6个，若需要超出请自行调整样式
 let linksData = [
   {
-    icon: Blog,
+    icon: Edge,
     name: "博客",
     link: "https://bbs.lingqi69.top/",
   },
