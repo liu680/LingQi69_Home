@@ -33,7 +33,7 @@ import { Icon } from "@vicons/utils";
 import {
   Link,
   Blog,
-  Certificate,
+  Award,
   FileSignature,
   Store,
   Cloud,
