@@ -61,7 +61,7 @@ let linksData = [
   {
     icon: Store,
     name: "商城",
-    link: "https://store.lingqi69.top/",
+    link: "https://lingqishop69.top/",
   },
   {
     icon: Cloud,
@@ -71,7 +71,7 @@ let linksData = [
   {
     icon: AppStoreIos,
     name: "软件源",
-    link: "https://source.ingqi69.top/",
+    link: "https://source.lingqi69.top/",
   },
 ];
 
