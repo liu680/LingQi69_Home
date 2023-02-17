@@ -33,12 +33,14 @@ import { Icon } from "@vicons/utils";
 import {
   Link,
   Blog,
-  P12,
-  Sign,
+  FileSignature,
   Store,
   Cloud,
-  Source,
+  AppStore24Filled,
 } from "@vicons/fa";
+import {
+  Certificate,
+} from "@vicons/tabler";
 
 // 网站链接数据
 // 建议不要超出6个，若需要超出请自行调整样式
