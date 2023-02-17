@@ -46,32 +46,32 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://bbs.lingqi69.top/",
+  },
+  {
+    icon: P12,
+    name: "证书购买",
+    link: "https://p12.lingqi69.top/",
+  },
+  {
+    icon: Sign,
+    name: "在线签名工具",
+    link: "https://sign.lingqi69.top/",
+  },
+  {
+    icon: Store,
+    name: "商城",
+    link: "https://store.lingqi69.top/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
-  },
-  {
-    icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
-  },
-  {
-    icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
-  },
-  {
-    icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    link: "https://pan.lingqi69.top/",
   },
   {
     icon: Flask,
-    name: "实验室",
-    link: "https://lab.imsyy.top/",
+    name: "软件源",
+    link: "https://source.ingqi69.top/",
   },
 ];
 
