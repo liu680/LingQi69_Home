@@ -37,7 +37,7 @@ import {
   FileSignature,
   Store,
   Cloud,
-  AppStore24Filled,
+  AppStoreIos,
 }
 
 // 网站链接数据
@@ -49,12 +49,12 @@ let linksData = [
     link: "https://bbs.lingqi69.top/",
   },
   {
-    icon: P12,
+    icon: Certificate,
     name: "证书购买",
     link: "https://p12.lingqi69.top/",
   },
   {
-    icon: Sign,
+    icon: FileSignature,
     name: "在线签名工具",
     link: "https://sign.lingqi69.top/",
   },
@@ -69,7 +69,7 @@ let linksData = [
     link: "https://pan.lingqi69.top/",
   },
   {
-    icon: Source,
+    icon: AppStoreIos,
     name: "软件源",
     link: "https://source.ingqi69.top/",
   },
