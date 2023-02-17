@@ -33,11 +33,11 @@ import { Icon } from "@vicons/utils";
 import {
   Link,
   Blog,
-  CompactDisc,
+  P12,
+  Sign,
+  Store,
   Cloud,
-  Compass,
-  Book,
-  Flask,
+  Source,
 } from "@vicons/fa";
 
 // 网站链接数据
@@ -69,7 +69,7 @@ let linksData = [
     link: "https://pan.lingqi69.top/",
   },
   {
-    icon: Flask,
+    icon: Source,
     name: "软件源",
     link: "https://source.ingqi69.top/",
   },
