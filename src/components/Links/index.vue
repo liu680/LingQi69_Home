@@ -49,7 +49,7 @@ let linksData = [
     link: "https://bbs.lingqi69.top/",
   },
   {
-    icon: Certificate,
+    icon: Award,
     name: "证书购买",
     link: "https://p12.lingqi69.top/",
   },
