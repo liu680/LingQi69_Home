@@ -1,16 +1,16 @@
 [{
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=3616420196"
+    "tip": "通过QQ联系我们",
+    "url": "https://lingqi69.top/qq/api.php?qq=3616420196"
 }, {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
+    "tip": "通过邮箱联系我们",
     "url": "mailto:official@lingqi69.top"
 }, {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
+    "tip": "关注我们的TG频道",
     "url": "https://t.me/AppleHook"
 }]
