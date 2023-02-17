@@ -1,0 +1,3 @@
+php game_code_gen.php -o 1      //输出n个兑换码，此处n为1
+php game_code_gen.php -s        //查看兑换码状态
+php game_code_gen.php 10        //必须为数字，生成10个新的兑换码，可以改为任意数字
